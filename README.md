@@ -33,11 +33,12 @@
 ##  Projects
 
 ###  IoT Project
-- **Smart Cage**: _(Brief description of your project)_
+- **Smart Cage**
+https://github.com/SulfurCamp/Intel_Mini_Project_SmartCage
 
 ###  AI Project
-- **SCV - Object Detection Turret System**: _(Brief description of your project)_
-
+- **SCV - Object Detection Turret System**
+https://github.com/SulfurCamp/Intel_AI_Project_Team02
 ##  Learning
 
 - Firmware(STM32)
