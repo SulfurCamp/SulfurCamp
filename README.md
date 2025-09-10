@@ -39,8 +39,13 @@ https://github.com/SulfurCamp/Intel_Mini_Project_SmartCage
 ###  AI Project
 - **SCV - Object Detection Turret System**
 https://github.com/SulfurCamp/Intel_AI_Project_Team02
-  → Git, Jira 기반 협업 환경에서 진행한 팀 프로젝트
+
+
+→ Git, Jira 기반 협업 환경에서 진행한 팀 프로젝트
+
+
 https://jalerx6809-1756803384052.atlassian.net/jira/software/projects/CRM/boards/1
+
 ##  Learning
 
 - Firmware(STM32)
