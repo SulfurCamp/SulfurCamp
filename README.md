@@ -34,10 +34,14 @@
 
 ###  IoT Project
 - **Smart Cage**
+
+
 https://github.com/SulfurCamp/Intel_Mini_Project_SmartCage
 
 ###  AI Project
 - **SCV - Object Detection Turret System**
+
+
 https://github.com/SulfurCamp/Intel_AI_Project_Team02
 
 
