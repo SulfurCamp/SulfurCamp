@@ -1,4 +1,4 @@
-# 안녕하세요, 저는 황진영입니다.
+# SulfurCamp Github.
 
 ## Skills
 
