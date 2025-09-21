@@ -38,7 +38,7 @@
 
 ## Learning
 
-- [Firmware (STM32)](https://github.com/jeong7231/intel7_review_study/tree/main/2nd_week/jeong7231)  
+- [Firmware (STM32)](https://github.com/jeong7231/intel7_review_study/tree/SulfurCamp/2nd_week/SulfurCamp)  
   STM32 레지스터 기반 펌웨어 설계 학습
 
 - [Linux BSP](https://github.com/jeong7231/linux_bsp/tree/main)  
