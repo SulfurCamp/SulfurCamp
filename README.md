@@ -30,7 +30,7 @@
 
 ### AI 프로젝트
 
-- [SCV - Object Detection Turret System](https://github.com/SulfurCamp/Intel_AI_Project_Team02)
+- [SCV - Object Detection Turret System](https://github.com/SulfurCamp/Intel_AI_Project_Team02)  
   [Jira 보드 링크](https://jalerx6809-1756803384052.atlassian.net/jira/software/projects/CRM/boards/1)  
   YOLO 기반 드론 탐지 및 자동 추적 시스템  
   Raspberry Pi + Hailo8 + Qt GUI + DB 연동으로 구성된 AIoT 융합 프로젝트  
