@@ -37,9 +37,9 @@
   [Jira 보드 링크](https://jalerx6809-1756803384052.atlassian.net/jira/software/projects/CRM/boards/1)
 
 ### OpenCV 프로젝트
-- [Panorama](https://github.com/SulfurCamp/Intel_OpenCV_Project_Team2)
-  OpenCV를 사용한 연속된 이미지를 파노라마 이미지로 합성
-  Qt기반 이미지 프레임 합성
+- [Panorama](https://github.com/SulfurCamp/Intel_OpenCV_Project_Team2)  
+  OpenCV를 사용한 연속된 이미지를 파노라마 이미지로 합성  
+  Qt기반 이미지 프레임 합성  
   
 
 ## Learning
