@@ -12,10 +12,10 @@
   STM32, AVR(Atmega128), Raspberry Pi, Arduino
 
 - **Development Tools**  
-  Makefile, STM32CubeIDE, Visual Studio Code
+  Makefile, STM32CubeIDE, Visual Studio Code, Jira
 
 - **Libraries & Frameworks**  
-  Qt, ROS2, OpenCV
+  Qt, RoS2, OpenCV
 
 - **Database**  
   MariaDB
@@ -35,6 +35,9 @@
   Raspberry Pi + Hailo8 + Qt GUI + DB 연동으로 구성된 AIoT 융합 프로젝트  
   Git, Jira 기반 협업 프로젝트  
   [Jira 보드 링크](https://jalerx6809-1756803384052.atlassian.net/jira/software/projects/CRM/boards/1)
+
+### OpenCV 프로젝트
+- [Panorama](https://github.com/SulfurCamp/Intel_OpenCV_Project_Team2)  
 
 ## Learning
 
