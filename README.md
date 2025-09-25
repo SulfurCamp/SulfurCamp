@@ -48,5 +48,5 @@
 - [Firmware (STM32)](https://github.com/jeong7231/intel7_review_study/tree/SulfurCamp/2nd_week/SulfurCamp)  
   STM32 레지스터 기반 펌웨어 설계 학습
 
-- [Linux BSP](https://github.com/jeong7231/linux_bsp/tree/main)  
+- [Linux BSP]([https://github.com/jeong7231/linux_bsp/tree/main](https://github.com/SulfurCamp/Intel_BSP_Study.git))  
   U-Boot, Linux Kernel, RootFS 등 Board Support Package 전반 학습
